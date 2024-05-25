@@ -72,6 +72,8 @@ Boneh
 bool
 booleans
 bootup
+bootnode
+bootnodes
 borderless
 BPE
 broadcasted
@@ -117,6 +119,7 @@ Composability
 composable
 computability
 computable
+connectionless
 config
 congestions
 Conor
@@ -152,6 +155,7 @@ DAO
 dapp
 dapps
 DAS
+Datagram
 dataset
 deboost
 decrementing
@@ -216,9 +220,11 @@ eK
 EL
 Elmore
 ELs
+EL's
 Encodings
 Endian
 env
+ENR
 EOA
 EOAs
 EOF
@@ -254,6 +260,7 @@ Extractable
 farcaster
 fastssz
 faytey
+Feamster
 Feist
 Femboy
 Ferrin
@@ -331,6 +338,7 @@ IETF
 iframe
 ify
 Imandra
+img
 impera
 implementers
 incentivize
@@ -357,6 +365,7 @@ JSON
 JUMPDEST
 JVM
 JWT
+Kademlia
 Karapetsas
 Katex
 keccak
@@ -368,6 +377,7 @@ keystore
 Kira
 Kleppmann
 Koblitz
+Kurose
 Kurtosis
 Kyber
 KZG
@@ -445,6 +455,7 @@ namespace
 namespaces
 Nand
 natively
+neighbours
 neq
 Nethermind
 neuder
@@ -497,6 +508,7 @@ Pigovian
 PKCS
 Playdate
 pmod
+png
 POC
 POS
 POSIX
@@ -570,6 +582,7 @@ RIPEMD
 Ritchie
 rK
 RLP
+RLPx
 roadmap
 rollup
 rollup's
@@ -643,14 +656,18 @@ StreamEth
 subcurrency
 subnets
 suboptimal
+Subprotocol
+subprotocol
 subprotocols
 substack
 subtrees
 Summa
 systemd
 Takenobu
+Tanenbaum
 Tani
 tbhl
+TCP
 Teku
 testnet
 testnets
@@ -680,6 +697,7 @@ TSTORE
 Tx
 txpool
 txs
+UDP
 UI
 uint
 unaggregated
@@ -720,6 +738,7 @@ walkthrough
 WB
 webkit
 WebRTC
+Wetherall
 Whitepaper
 WIP
 WSS
