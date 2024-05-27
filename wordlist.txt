@@ -179,6 +179,7 @@ Devops
 devp
 Devs
 DEX
+DHT
 Diffie
 DILITHIUM
 Dimitar
@@ -384,6 +385,7 @@ KZG
 Lamport
 Lamport's
 ldots
+Leffew
 Lefteris
 leveldb
 libp
